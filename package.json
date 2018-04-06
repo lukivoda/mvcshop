@@ -1,0 +1,12 @@
+{
+  "author": "Stevan Ristov",
+  "name": "mvcshop",
+  "description": "e-commerce mvc site",
+  "private": true,
+  "version": "0.0.1",
+
+  "dependencies": {
+    "gulp": "~3.9",
+    "laravel-elixir": "~5.0.0"
+  }
+}
