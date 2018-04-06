@@ -7,4 +7,4 @@ require_once (__DIR__."/../bootstrap/init.php");
 // we are getting the name of the app from the .enf file in the root of the project
 $app_name = getenv('APP_NAME');
 
-echo $app_name;
+//var_dump(in_array("mod_rewrite", apache_get_modules()));

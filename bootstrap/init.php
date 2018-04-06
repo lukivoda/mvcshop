@@ -8,3 +8,7 @@ if(!isset($_SESSION)){
 
 //requiring the _env.php so we can use the enviromental variables in the project
 require_once (__DIR__."/../app/config/_env.php");
+
+
+//requiring routes file
+require_once (__DIR__."/../app/routing/routes.php");
