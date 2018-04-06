@@ -1,0 +1,13 @@
+//font
+@import url(https://fonts.googleapis.com/css?family=Railway:300,400,600);
+
+//foundation sites(base .scss file)
+@import "../bower/vendor/foundation-sites/assets/foundation";
+
+
+//motion ui(base .scss file)
+@import "../bower/vendor/motion-ui/src/motion-ui";
+
+@include motion-ui-transitions
+
+@include motion-ui-animations
