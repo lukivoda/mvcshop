@@ -1,0 +1,9 @@
+{
+  "name": "mvcshop",
+  "dependencies": {
+    "foundation-sites": "^6.4.3",
+    "jQuery": "~2.2",
+    "motion-ui": "^1.2.3",
+    "slick-carousel": "^1.8.1"
+  }
+}
